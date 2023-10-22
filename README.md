@@ -1,3 +1,4 @@
+![logo](https://github.com/Nadeem990/Nadeem990/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nadeem Hussain</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
